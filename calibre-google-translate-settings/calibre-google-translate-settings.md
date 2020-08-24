@@ -4,7 +4,7 @@
 2. Select one word and click double.
 3. Click **"Lookup/search word"** from the top drop down menu
 
-    <img src="3.png" width="250" height="250">
+    <img src="3.png" width="350" height="350">
 
 4. Click **"+ Add more sources"** from the right menu
 5. Click **"+ Add"** from the popup menu
